@@ -6,3 +6,5 @@ carrots
 oranges
 beans
 cereals
+cucumber
+cherries
