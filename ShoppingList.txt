@@ -8,3 +8,5 @@ beans
 cereals
 cucumber
 cherries
+eggs 
+mushroom
